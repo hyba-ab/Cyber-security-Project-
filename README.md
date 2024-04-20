@@ -45,7 +45,19 @@ The system is designed as a web application with two components:
 #### 2.Clone the Repository: 
    Clone this repository using git clone [Link](https://github.com)
 #### 3.Set Up Environment: (Optional for Desktop Application) 
-   Create a virtual environment to manage project dependencies:
+   Create a virtual environment to manage project dependencies
+   ```Bash
+python -m venv venv
+source venv/bin/activate
+```
+#### 4.Install Dependencies: Install the required Python libraries using pip install -r requirements.txt.
+#### 5.Data Preparation: Create a directory structure to store user images and attendance records (CSV files).
+#### 6.Configuration: (Optional for Desktop Application) Modify any configuration settings in the code as needed.
+#### 7.Run the Application: (Desktop Application) Execute the appropriate script to launch the desktop application. (Web Application) Refer to the Flask documentation for deployment instructions on a web server.
+
+## Authors
+Isra Mariem Thabti, Hiba Abdelli BA/IT
+
 
 
 
