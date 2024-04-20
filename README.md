@@ -1,4 +1,3 @@
-# Web-Based Facial Authentication System
 ![Dark Simple Future LinkedIn Banner](https://github.com/hyba-ab/Cyber-security-Project-Facial-Recognition-based-Attendance-System/assets/164689889/4908be81-ca6c-4f17-a6f7-dcba5ec5d05d)
 ## Introduction
 This project explores the development of a web-based facial authentication system, leveraging facial recognition technology to enhance security and streamline user verification processes.
