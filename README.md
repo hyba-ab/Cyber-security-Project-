@@ -22,5 +22,10 @@ The system is designed as a web application with two components:
   - Scikit-learn for implementing the KNN algorithm.
   - Pandas for data manipulation and handling CSV files for attendance records.
   - Joblib for saving and loading the machine learning model.
+## Getting Started
+Prerequisites: Ensure you have Python, OpenCV, Flask, NumPy, Scikit-learn, Pandas, and Joblib installed on your development environment.
+Clone the Repository: Clone this repository using git clone https://github.com/<your-username>/web-based-facial-authentication-system.git.
+Set Up Environment: (Optional for Desktop Application) Create a virtual environment to manage project dependencies:
+
 
 
