@@ -50,12 +50,16 @@ The system is designed as a web application with two components:
 python -m venv venv
 source venv/bin/activate
 ```
-#### 4.Install Dependencies: Install the required Python libraries using pip install -r requirements.txt.
+#### 4.Install Dependencies: Install the required Python libraries using
+```python
+pip install -r requirements.txt.
+```
 #### 5.Data Preparation: Create a directory structure to store user images and attendance records (CSV files).
 #### 6.Configuration: (Optional for Desktop Application) Modify any configuration settings in the code as needed.
 #### 7.Run the Application: (Desktop Application) Execute the appropriate script to launch the desktop application. (Web Application) Refer to the Flask documentation for deployment instructions on a web server.
+## Lisence : 
 
-## Authors
+## Authors : 
 Isra Mariem Thabti, Hiba Abdelli BA/IT
 
 
