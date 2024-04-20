@@ -23,10 +23,29 @@ The system is designed as a web application with two components:
   - Scikit-learn for implementing the KNN algorithm.
   - Pandas for data manipulation and handling CSV files for attendance records.
   - Joblib for saving and loading the machine learning model.
-## Getting Started
-Prerequisites: Ensure you have Python, OpenCV, Flask, NumPy, Scikit-learn, Pandas, and Joblib installed on your development environment.
-Clone the Repository: Clone this repository using git clone https://github.com/<your-username>/web-based-facial-authentication-system.git.
-Set Up Environment: (Optional for Desktop Application) Create a virtual environment to manage project dependencies:
+## Functionalities
+ - ### User Management:
+ Enroll users by capturing their facial images and storing them in a secure database.
+ - ### Attendance Management (Web Application):
+     - Capture video from the webcam.
+     - Detect faces in real-time.
+     - Recognize users based on the trained facial recognition model.
+     - Record attendance for identified users.
+     - Store attendance data in CSV files.
+ - ### Login (Desktop Application):
+     - Capture an image from the webcam.
+     - Send the image to the server for processing.
+     - Perform face detection and recognition on the server.
+     - Verify the user's identity based on stored facial encodings.
+     - Grant access upon successful verification.
+
+## Getting Started : 
+#### 1.Prerequisites: 
+   Ensure you have Python, OpenCV, Flask, NumPy, Scikit-learn, Pandas, and Joblib installed on your development environment.
+#### 2.Clone the Repository: 
+   Clone this repository using git clone [Link](https://github.com)
+#### 3.Set Up Environment: (Optional for Desktop Application) 
+   Create a virtual environment to manage project dependencies:
 
 
 
