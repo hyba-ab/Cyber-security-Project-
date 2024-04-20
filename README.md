@@ -1,6 +1,5 @@
 # Web-Based Facial Authentication System
-![Blue Modern Gaming Banner Landscape](https://github.com/hyba-ab/Cyber-security-Project-Facial-Recognition-based-Attendance-System/assets/164689889/34eaa438-f6a6-4758-83e8-2b3f0371f099)
-## Introduction
+![Dark Simple Future LinkedIn Banner](https://github.com/hyba-ab/Cyber-security-Project-Facial-Recognition-based-Attendance-System/assets/164689889/4908be81-ca6c-4f17-a6f7-dcba5ec5d05d)## Introduction
 This project explores the development of a web-based facial authentication system, leveraging facial recognition technology to enhance security and streamline user verification processes.
 ## Project Goals
 - Enhanced Security: Integrate facial recognition technology into existing security infrastructure for robust user identification.
