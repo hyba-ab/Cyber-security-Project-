@@ -14,4 +14,13 @@ The system is designed as a web application with two components:
 - ### Web Application:
   - Flask web framework for building and serving the web interface.
   - HTML, CSS, and Bootstrap for user interface design and responsiveness.
+  - OpenCV (cv2) for capturing webcam video, face detection, and recognition.
+  - Machine learning model (K-Nearest Neighbors) trained on facial images for recognizing 
+   users.
+  - Python for backend development.
+  - NumPy for numerical computing.
+  - Scikit-learn for implementing the KNN algorithm.
+  - Pandas for data manipulation and handling CSV files for attendance records.
+  - Joblib for saving and loading the machine learning model.
+
 
