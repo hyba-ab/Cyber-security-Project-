@@ -30,7 +30,7 @@ pip install -r requirements.txt.
 ```
 #### 4.Data Preparation: Create a directory structure to store user images and attendance records (CSV files).
 #### 5.Configuration: Modify any configuration settings in the code as needed.
-#### 6.Run the Application: Execute the appropriate script to launch the desktop application.
+#### 6.Run the Application: Execute the appropriate script to launch the application.
 
 ## Authors : 
 Isra Mariem Thabti, Hiba Abdelli 
