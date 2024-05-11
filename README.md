@@ -1,4 +1,5 @@
-![VisioPort](https://github.com/hyba-ab/CyberSecurity-Facial-Recognition-based-Attendance-System/assets/164689889/dfd69e6b-b91b-47b4-9570-ae390fa06731)## Introduction
+![VisioPort](https://github.com/hyba-ab/CyberSecurity-Facial-Recognition-based-Attendance-System/assets/164689889/dfd69e6b-b91b-47b4-9570-ae390fa06731)
+## Introduction
 Our project, the Facial Recognition Based Attendance System, is a solution designed to automate the process of recording attendance using facial recognition technology. By harnessing the power of computer vision and machine learning, our system offers a convenient and efficient alternative to traditional attendance tracking methods.
 
 ### Technologies Used:
