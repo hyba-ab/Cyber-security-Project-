@@ -14,7 +14,7 @@ Our project, the Facial Recognition Based Attendance System, is a solution desig
 3. **Machine Learning Model Training**: Trained the face recognition model using the K-Nearest Neighbors algorithm.
 4. **Integration and Testing**: Integrated frontend and backend components, performed thorough testing, and implemented error handling mechanisms.
 5. **Deployment**: Deployed the Flask application to a server for production use.
-  ////////// add both web and desktop 
+
 ## Getting Started : 
 #### 1.Prerequisites: 
    Ensure you have Python, OS, OpenCV, Flask, NumPy, Scikit-learn, Pandas, and Joblib installed on your development environment.
@@ -29,11 +29,10 @@ source venv/bin/activate
 pip install -r requirements.txt.
 ```
 #### 4.Data Preparation: Create a directory structure to store user images and attendance records (CSV files).
-#### 5.Configuration: (Optional for Desktop Application) Modify any configuration settings in the code as needed.
-#### 6.Run the Application: (Desktop Application) Execute the appropriate script to launch the desktop application. (Web Application) Refer to the Flask documentation for deployment instructions on a web server.
-## Lisence : 
+#### 5.Configuration: Modify any configuration settings in the code as needed.
+#### 6.Run the Application: Execute the appropriate script to launch the desktop application.
 
 ## Authors : 
-Isra Mariem Thabti, Hiba Abdelli BA/IT
+Isra Mariem Thabti, Hiba Abdelli 
 
 
