@@ -35,6 +35,7 @@ pip install -r requirements.txt.
 #### 6.Run the Application: Execute the appropriate script to launch the application.
 
 ## Authors : 
-Isra Mariem Thabti, Hiba Abdelli 
+Isra Mariem Thabti
+Hiba Abdelli 
 
 
